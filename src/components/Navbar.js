@@ -14,7 +14,7 @@ const Navbar = () => {
     const [nav, setNav] = useState(false);
 
     return (
-        <div className="max-w-[1640px] mx-auto flex justify-between items-center p-4">
+        <section className="max-w-[1640px] mx-auto flex justify-between items-center p-4">
             {/* Left side */}
             <div className="flex items-center">
                 <div onClick={() => setNav(!nav)} className="cursor-pointer">
@@ -101,7 +101,7 @@ const Navbar = () => {
                     </ul>
                 </nav>
             </div>
-        </div>
+        </section>
     );
 };
 
