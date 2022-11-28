@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tailwind-best-eats/static/css/main.322be598.css",
+    "main.js": "/tailwind-best-eats/static/js/main.96c730ab.js",
+    "index.html": "/tailwind-best-eats/index.html",
+    "main.322be598.css.map": "/tailwind-best-eats/static/css/main.322be598.css.map",
+    "main.96c730ab.js.map": "/tailwind-best-eats/static/js/main.96c730ab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.322be598.css",
+    "static/js/main.96c730ab.js"
+  ]
+}
